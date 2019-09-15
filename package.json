@@ -1,0 +1,19 @@
+{
+  "name": "atjs",
+  "version": "1.0.0",
+  "description": "All Things JavaScript",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orenJim/atjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orenJim/atjs/issues"
+  },
+  "homepage": "https://github.com/orenJim/atjs#readme"
+}
